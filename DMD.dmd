@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="A10" id="40919B54-0434-70A2-E0C0-9029440C3B66" version="3.5">
+<createdBy>Asus</createdBy>
+<createdTime>2024-04-29 06:40:46 UTC</createdTime>
+<ownerDesignName>basda Project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>40919B54-0434-70A2-E0C0-9029440C3B66</designId>
+</OSDM_Design>
